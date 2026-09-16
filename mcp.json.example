@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "xtu-kjc": {
+      "type": "http",
+      "url": "https://xtu-kjc-mcp.<你的账号>.workers.dev/61c99d39-e3b5-4ebb-9d55-106c056b1b9f/mcp"
+    }
+  }
+}
