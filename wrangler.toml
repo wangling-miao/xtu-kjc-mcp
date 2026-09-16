@@ -1,0 +1,6 @@
+name = "xtu-kjc-mcp"
+main = "src/index.js"
+compatibility_date = "2025-10-01"
+
+[vars]
+ACCESS_UUID = "61c99d39-e3b5-4ebb-9d55-106c056b1b9f"
